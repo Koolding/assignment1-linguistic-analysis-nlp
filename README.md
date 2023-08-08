@@ -1,2 +1,4 @@
-# assignment1-linguistic-analysis-nlp
-This repository contains assignment 4 which is a part of the portfolio exam in the course Language Analytics at Aarhus University.
+# Assignment 1 - Language Analytics
+Author: Christian Norup Kolding (201805727)
+<br>
+Date: 25th of June 2023
